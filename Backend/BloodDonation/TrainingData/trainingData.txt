@@ -1,0 +1,61 @@
+1~ Donarea de sange este o procedura sigura si simpla care poate salva vieti~ 1
+2~ Cerintele pentru donatorii de sange includ varsta minima de 18 ani si greutatea de peste 50 kg.~ 1
+3~ Campania nationala de donare a sangeului are loc saptamana aceasta in toate centrele locale~ 1
+4~ Multi oameni se intreaba cum pot contribui la comunitate. Donarea de sange este o modalitate rapida si eficienta.~ 1
+5~ Este important sa te hidratezi bine inainte de a dona sange.~ 1
+6~ Pizza este un fel de mancare popular in multe culturi.~ 0
+7~ Conducerea sub influenta alcoolului este ilegala si periculoasa~ 0
+8~ Filmul lansat saptamana trecuta a avut incasari record la box office.~ 0
+9~ Tehnologia smartphone-urilor a evoluat semnificativ in ultimii ani~ 0
+10~ Castigarea la loterie este un vis indepartat pentru multi oameni.~ 0
+11~ Ce tipuri de teste se efectueaza asupra sangelui donat inainte de a fi utilizat?~ 1
+12~ Pot dona sange daca am facut un tatuaj in ultimele 6 luni?~ 1
+13~ Este necesar sa am un anumit nivel de fier in sange pentru a putea dona?~ 1
+14~ Care sunt beneficiile pentru sanatate ale donatorului de sange?~ 1
+15~ Ce se întampla cu sangele dupa ce este donat?~ 1
+16~ Cum se compara cafeaua cu ceaiul in ceea ce priveste beneficiile pentru sanatate?~ 0
+17~ Modificarile climatice influenteaza agricultura la nivel global.~ 0
+18~ Recomandari pentru ingrijirea animalelor de companie in timpul verii.~ 0
+19~ Care sunt cele mai bune practici pentru mentinerea unei inimi sanatoase?~ 0
+20~ Exista vreo legatura intre exercitiile fizice si productivitatea la locul de munca?~ 0
+21~ Sunt alergiile un impediment pentru donarea de sange?~ 1
+22~ Ce inseamna sa fii un donator de sange regulat?~ 1
+23~ Sunt organizate centre mobile pentru donarea de sange in zona rurala?~ 1
+24~ Poate donarea de sange sa ajute la detectarea bolilor?~ 1
+25~ Ce tipuri de sange sunt mai cautate in spitale?~ 1
+26~ Ce se intampla daca am tensiunea arteriala mare in ziua donarii?~ 1
+27~ Donarea de sange reduce riscul de cancer?~ 1
+28~ Exista restrictii legate de consumul de alcool inainte de donarea de sange?~ 1
+29~ Cum sunt folosite plasmele donatate in spitale?~ 1
+30~ Este necesar un test COVID-19 inainte de donarea de sange?~ 1
+31~ Ce inseamna sa ai un tip de sange rar si cum influențeaza asta donarea?~ 1
+32~ Sunt necesare pauze intre sesiunile de donare de sange?~ 1
+33~ Cat dureaza procesul de donare a sangelui de la inceput pana la sfarsit?~ 1
+34~ Pot fuma in ziua in care donez sange?~ 1
+35~ Cum sunt pastrate si transportate donatiile de sange?~ 1
+36~ Oricine poate deveni donator de plasma?~ 1
+37~ Are dieta influenta asupra calitatii sangelui donat?~ 1
+38~ Donarea de sange imi poate influenta performanta sportiva?~ 1
+39~ Ce se intampla cu sangele care nu este folosit?~ 1
+40~ Care sunt procedurile de urgenta in timpul donarii de sange?~ 1
+41~ Cum se fabrica hartia din lemn?~ 0
+42~ Cele mai bune metode pentru a economisi energie in casa.~ 0
+43~ Importanta vaccinarii animalelor de companie.~ 0
+44~ Se pot planta flori in spatii cu lumina redusa?~ 0
+45~ Care sunt cele mai recente inovatii in transportul electric?~ 0
+46~ Cum influenteaza muzica productivitatea la locul de munca?~ 0
+47~ Sunt calatoriile spatiale comerciale viabile economic?~ 0
+48~ Impactul dietelor pe baza de plante asupra sanatatii.~ 0
+49~ Metode de relaxare si meditatie eficiente.~ 0
+50~ Avantajele si dezavantajele lucrului de acasa.~ 0
+51~ Ce este grafenul si care sunt utilizarile sale?~ 0
+52~ Padurile urbane si beneficiile lor pentru orase.~ 0
+53~ Tehnologiile emergente in fotbal pentru analiza performantei.~ 0
+54~ Sfaturi pentru o alimentatie sanatoasa in timpul sarcinii.~ 0
+55~ Importanta unui somn bun pentru sanatatea mintala.~ 0
+56~ Modele economice sustenabile pentru viitor.~ 0
+57~ Rolul inteligentei artificiale in diagnosticarea medicala.~ 0
+58~ Cum se schimba climatul la nivel global?~ 0
+59~ Eficienta vehiculelor hibride comparativ cu cele electrice.~ 0
+60~ Beneficiile yoga pentru persoanele in varsta.~ 0
+61~ Ce imi poti spune despre donarea de sange?~ 1

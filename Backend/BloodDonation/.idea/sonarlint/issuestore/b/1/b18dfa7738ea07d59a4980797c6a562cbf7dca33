@@ -1,0 +1,6 @@
+
+r
+java:S1104"\Make messageException a static final constant or non-public and provide accessors if needed.(·яэі
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ЪвРћыяяяя
+?
+java:S1165")Make this "messageException" field final.(·яэі
