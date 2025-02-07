@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BloodDonation</string>
+    <string name="login">Autentificare</string>
+    <string name="logout">Deconectare</string>
+    <string name="register">Înregistrare</string>
+    <string name="resetPassword">Resetare parolă</string>
+    <string name="searchDonationCenter">Centre de donare</string>
+    <string name="schedulesDonationCenter">Listă programări</string>
+    <string name="searchDonationHistory">Istoric donații</string>
+    <string name="searchVeriFyEligibility">Verificare eligibilitate</string>
+    <string name="chatLive">Chat Live</string>
+    <string name="myProfile">Profilul meu</string>
+    <string name="generalInformation">Informații generale</string>
+    <string name="send">Trimite</string>
+    <string name="generatePdf">Generare pdf</string>
+    <string name="meniuDrawer">Meniu</string>
+
+    // labels
+    <string name="emailLabel">Email</string>
+    <string name="cnpLabel">CNP</string>
+    <string name="passwordLabel">Parolă</string>
+    <string name="confirmPasswordLabel">Confirmare parolă</string>
+    <string name="firstName">Prenume</string>
+    <string name="lastName">Nume</string>
+    <string name="sex">Sex</string>
+    <string name="birthDate">Data nașterii</string>
+    <string name="bloodType">Grupa de sânge</string>
+    <string name="startVerify">Începe verificarea</string>
+    <string name="question">Întrebare</string>
+    <string name="selectBirthDate">Selectează data nașterii</string>
+    <string name="selectSex">Alege sexul</string>
+    <string name="bookedForDonation">Programează-te la centru</string>
+    <string name="selectDate">Alege data</string>
+    <string name="selectHour">Alege ora</string>
+    <string name="sendRequest">Trimite solicitarea</string>
+    <string name="selectBloodType">Alege grupa de sânge</string>
+    <string name="Search">Caută</string>
+    <string name="distanceToCenterMeters">Distanța: %1$d metri</string>
+    <string name="distanceToCenterKilometers">Distanța: %.2f km</string>
+</resources>
